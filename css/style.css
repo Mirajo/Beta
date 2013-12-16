@@ -1,3 +1,11 @@
+/*
+Responsive 996px grid system ~ Style CSS.
+Copyright 2013, Josh Cope
+*/
+
+/* =============================================================================
+   Site Styles
+   ========================================================================== */
 body {
   background-image: url("../images/background/background2.jpg");
   background-attachment: fixed;
@@ -37,6 +45,11 @@ h2 {
 }
 
 p {
+}
+/* =============================================================================
+   Page Styles
+   ========================================================================== */
+#form {
   border: 0px solid #666;
   overflow: hidden;
   padding: 10px 0;
