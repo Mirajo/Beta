@@ -52,6 +52,9 @@ nav {
 img {
 float: left;
 }
+#contact {
+float: none;
+}
 header {
 background-color: #336633;
 }
