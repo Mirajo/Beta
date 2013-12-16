@@ -1,5 +1,5 @@
-https://github.com/Mirajo/wsd
+https://github.com/Mirajo/beta
 
-https://github.com/Mirajo/wsd/tree/gh-pages
+https://github.com/Mirajo/beta/tree/gh-pages
 
-http://mirajo.github.io/wsd/index.html
+http://mirajo.github.io/beta/index.html
