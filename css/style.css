@@ -41,13 +41,15 @@ h1, h2, h3, h4 {
 }
 nav {
 	background-color: #336633;
+	color: #ffffff;
+	text-align:center;
 }
 header {
 background-color: #336633;
 }
 footer {
 background-color: #336633;
-color: #000000;
+color: #ffffff;
 text-align: center;
 }
 p {
