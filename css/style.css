@@ -35,8 +35,8 @@ li {
 h1, h2, h3, h4 {
 	color: #ffffff;
 	font-family: 'Leckerli One', cursive;
-	text-shadow: 5px 5px 5px black;
-	padding-left: 25px;
+	text-shadow: 1px 1px 1px #bac0c5;
+	padding-left: 10px;
 	text-align:left;
 }
 
