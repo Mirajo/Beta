@@ -62,6 +62,8 @@ background-color: #f3f9f4;
 }
 .container .grid_12 {
 background-color: #000000;
+margin-left: 0px;
+margin-right: 0px;
 }
 section {
 background-color: #ffffff;
