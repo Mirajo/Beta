@@ -49,6 +49,9 @@ nav {
 	color: #ffffff;
 	text-align:center;
 }
+img {
+float: left;
+}
 header {
 background-color: #336633;
 }
