@@ -1,4 +1,7 @@
 body {
+  background-image: url("../images/background/background2.jpg");
+  background-attachment: fixed;
+  background-position: center;
   background: #ffffff;
   color: #333;
   font-size: 14px;
