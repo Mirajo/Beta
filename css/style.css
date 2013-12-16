@@ -32,16 +32,12 @@ li {
 	list-style-type: none;
 	display: inline;
 }
-h1 {
-  font-family: Georgia, serif;
-  padding-top: 20px;
-  text-align: left;
-}
-
-h2 {
-  font-family: Georgia, serif;
-  padding-top: 20px;
-  text-align: left;
+h1, h2, h3, h4 {
+	color: #ffffff;
+	font-family: 'Leckerli One', cursive;
+	text-shadow: 5px 5px 5px black;
+	padding-left: 25px;
+	text-align:left;
 }
 
 p {
