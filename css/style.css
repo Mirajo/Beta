@@ -33,7 +33,7 @@ a:hover {
   text-decoration: underline;
 }
 li {
-    color: #ffffff;
+    color: #000000;
 	margin: 0 auto;
 	list-style-type: none;
 	display: inline;
@@ -58,6 +58,10 @@ nav {
 	background-color: #336633;
 	color: #ffffff;
 	text-align:center;
+}
+hours {
+	color: #000000;
+	text-align:left;
 }
 img {
 float: left;
