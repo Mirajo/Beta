@@ -39,15 +39,15 @@ li {
 h2, h3, h4 {
 	color: #ffffff;
 	font-family: 'Maven Pro', sans-serif;
-	padding-left: 0px;
+	padding-left: 2px;
 	margin-left: 2px;
 	text-align:left;
 	background-color: #336633
 }
-h1, {
+h1 {
 	color: #ffffff;
 	font-family: 'Leckerli One', cursive;
-	padding-left: 0px;
+	padding-left: 2px;
 	margin-left: 2px;
 	text-align:left;
 	background-color: #336633
