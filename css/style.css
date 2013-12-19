@@ -33,6 +33,7 @@ a:hover {
   text-decoration: underline;
 }
 li {
+    color: #ffffff;
 	margin: 0 auto;
 	list-style-type: none;
 	display: inline;
