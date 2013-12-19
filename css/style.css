@@ -72,6 +72,7 @@ text-align: center;
 }
 p {
 background-color: #f3f9f4;
+margin-left: 2px;
 }
 .container .grid_12 {
 margin-left: 0px;
@@ -115,12 +116,12 @@ border-radius: 40px;
 
 @media only screen and (max-width: 767px) {
 	.container {
-		background: #6afd7f;
+		background: #ffffff;
 	}
 }
 
 @media only screen and (max-width: 479px) {
 	.container.demo {
-		background: #e16bfe;
+		background: #ffffff;
 	}
 }
