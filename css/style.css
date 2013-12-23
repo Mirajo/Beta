@@ -40,6 +40,14 @@ li {
 	font-size:1.100em;
 	padding:0.5em;
 }
+#hours ul li {
+    color: #000000;
+	margin: 0 auto;
+	list-style-type: none;
+	display: block;
+	font-size:1.100em;
+	padding:0.5em;
+}
 h2, h3, h4 {
 	color: #ffffff;
 	font-family: 'Maven Pro', sans-serif;
