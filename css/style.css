@@ -58,6 +58,10 @@ nav {
 	background-color: #336633;
 	color: #ffffff;
 	text-align:center;
+	border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
 }
 img {
 float: left;
@@ -134,10 +138,6 @@ margin-right: 0px;
 .container {
   background-color: #bac0c5;
   background-repeat: repeat;
-  border-bottom-left-radius:20px;
-  border-bottom-right-radius:20px;
-  border-top-left-radius:20px;
-  border-top-right-radius:20px;
 }
 
 .container {
